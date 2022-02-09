@@ -31,5 +31,7 @@ class webbcrawl():
         df = pd.DataFrame.from_dict(hdr_data,orient='columns')
     
         pd.set_option('display.max_colwidth', None)
+        pd.set_option('display.max_rows', 1000)
+        
         print(df)
     
