@@ -15,7 +15,7 @@ To be uploaded to pip
 
 Basic command line usage:
 ------------------------
-webbcrawl <path> --options
+webbcrawl path --options
    
 example:
 
