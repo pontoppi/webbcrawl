@@ -11,7 +11,7 @@ python setup.py install
 
 Using pip:
 ----------
-To be uploaded to pip
+To be uploaded to pypi
 
 Basic command line usage:
 ------------------------
