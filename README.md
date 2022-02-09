@@ -15,8 +15,8 @@ To be uploaded to pypi
 
 Basic command line usage:
 ------------------------
-webbcrawl path --options
+webbcrawl --options path 
    
 example:
 
-webbcrawl MAST_2022-02-08T0000 --include_path
+webbcrawl --include_path MAST_2022-02-08T0000 
