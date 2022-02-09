@@ -33,4 +33,3 @@ class webbcrawl():
         pd.set_option('display.max_colwidth', None)
         print(df)
     
-#webbcrawl('/Users/pontoppi/commissioning/data/NRC899',include_path=True)
