@@ -5,11 +5,16 @@ This software is provided as-is, with no warranty.
   
 INSTALLATION
 
+using setup.py:
+----------
+python setup.py install
+
 Using pip:
 ----------
+To be uploaded to pip
 
-pip install webbcrawl
-
+Basic command line usage:
+------------------------
 webbcrawl <path> --options
    
 example:
