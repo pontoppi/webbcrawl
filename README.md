@@ -19,4 +19,4 @@ webbcrawl path --options
    
 example:
 
-webbcrawl . --include_path
+webbcrawl MAST_2022-02-08T0000 --include_path
