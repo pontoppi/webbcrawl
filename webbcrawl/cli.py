@@ -14,6 +14,6 @@ from webbcrawl.docopt import docopt
 
 def main():
     """Main CLI entrypoint."""
-    opt = docopt(__doc__, options_first=True)
+    opt = docopt(__doc__, options_first=False)
 
     webbcrawl.webbcrawl(str(opt['<path>']), include_path=opt['--include_path'])
